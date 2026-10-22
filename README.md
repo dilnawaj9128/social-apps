@@ -1,4 +1,4 @@
-# DevConnect 🚀
+# DevConnect 🚀.
 
 Full Stack DevOps Project using:
 - React (Frontend)
